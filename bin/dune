@@ -1,0 +1,3 @@
+(executable
+ (name lumiere)
+ (libraries lumiere_lib))

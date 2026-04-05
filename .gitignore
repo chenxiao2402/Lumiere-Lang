@@ -34,3 +34,12 @@ setup.log
 
 # Local OPAM switch
 _opam/
+
+# Lumiere compiler outputs
+*.ll
+examples/hello
+examples/math
+examples/bignum
+
+# macos
+.DS_Store

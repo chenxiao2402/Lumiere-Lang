@@ -1,0 +1,8 @@
+(library
+ (name lumiere_lib)
+ (libraries str))
+
+(ocamllex lexer)
+
+(menhir
+ (modules parser))
